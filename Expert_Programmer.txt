@@ -1,0 +1,11 @@
+Dorothy Hunt
+Week 2
+6/30/2015
+
+Write a 3-5 paragraph blog post about how putting in coding hours and hard work is necessary to become an expert programmer.
+
+Just like anything in life, practice makes perfect. Nothing in this world comes easy. It is necessary to put in hard work and time into the goals you want to accomplish. A great example would be practicing yoga, getting into shape or learning how to cook. They all require hard work and a lot of invested time. You can’t just wake up on day and say, “I will become a master chef by the end of today”.  It doesn’t just come to you. You need time to develop the skill needed to become a master chef.
+
+When it comes to programming you can’t assume that completing a day, a week, or even a month of coding will make you an expert. You can probably learn the concept of programming in a short time frame (depends on the person), but overall programming is a skill that will shape up with time and practice. It can take years of coding before one can say that they are an expert. Remember that an “expert” is considered someone who has a comprehensive and authoritative knowledge of or skill in a particular area. That does not happen overnight.
+
+In my experience, I’ve found that practice and patience does indeed help you become a better programmer. There will be moments when you figure out a difficult problem and feel like you can take on the world. I love that feeling! But there will also be moments where you can’t figure out what is wrong with your code and you might question your ability to solve the problem. It happens to all programmers in the beginning and with time and practice it will become easier. Taking it one day at a time and setting time out of your day to code for an hour or two will help the information sink in. Remember, practice makes perfect. It won't be easy, but it will be worth it.
